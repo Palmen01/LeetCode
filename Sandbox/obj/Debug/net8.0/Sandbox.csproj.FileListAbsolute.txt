@@ -12,3 +12,4 @@ C:\Users\simon\Desktop\projects\LeetCode\Sandbox\obj\Debug\net8.0\refint\Sandbox
 C:\Users\simon\Desktop\projects\LeetCode\Sandbox\obj\Debug\net8.0\Sandbox.pdb
 C:\Users\simon\Desktop\projects\LeetCode\Sandbox\obj\Debug\net8.0\Sandbox.genruntimeconfig.cache
 C:\Users\simon\Desktop\projects\LeetCode\Sandbox\obj\Debug\net8.0\ref\Sandbox.dll
+C:\Users\simon\Desktop\projects\LeetCode\Sandbox\obj\Debug\net8.0\Sandbox.sourcelink.json
