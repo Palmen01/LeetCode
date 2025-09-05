@@ -21,30 +21,12 @@ public class Solution
 {
     public int FindClosest(int x, int y, int z)
     {
-        int xDistance = z - x;
-        int yDistance = z - y;
+        int xDistance = Math.Abs(z - x);
 
-        if (xDistance < 0)
-        {
-            xDistance -= xDistance * 2;
-        }
-        
-        if (yDistance < 0)
-        {
-            yDistance -= yDistance * 2;
-        }
+        int yDistance = Math.Abs(z - y);
 
-        if (xDistance < yDistance)
-        {
-            return 1;
-        }
-        else if (yDistance < xDistance)
-        {
-            return 2;
-        }
-        else
-        {
-            return 0;
-        }
+        if (xDistance < yDistance) return 1;
+        else if (yDistance < xDistance) return 2;
+        return 0;
     }
 }
