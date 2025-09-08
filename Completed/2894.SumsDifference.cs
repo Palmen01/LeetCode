@@ -19,20 +19,20 @@ public class Solution
 {
     public int DifferenceOfSums(int n, int m)
     {
-        int canDivide = 0;
-        int cantDivide = 0;
+        int DividableSum = 0;
+        int NonDividableSum = 0;
 
         for (int i = 1; i <= n; i++)
         {
             if (i % m == 0)
             {
-                canDivide += i;
+                DividableSum += i;
             }
             else
             {
-                cantDivide += i;
+                NonDividableSum += i;
             }
         }
-        return cantDivide - canDivide;
+        return NonDividableSum - DividableSum;
     }
 }
