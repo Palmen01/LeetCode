@@ -1,4 +1,5 @@
 using System;
+using System.Formats.Asn1;
 public class Program
 {
     public static void Main(string[] args)
@@ -12,7 +13,13 @@ public class Program
     }
 }
 public class Solution {
-    public int[] BuildArray(int[] nums) {
-        
+    public int[] BuildArray(int[] nums)
+    {
+        int[] answer = new int[nums.Length];
+        for (int i = 0; i < nums.Length; i++)
+        {
+            answer[i] = nums[nums[i]];
+        }
+        return answer;
     }
 }
