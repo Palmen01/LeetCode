@@ -18,9 +18,6 @@ public class Solution
 {
     public int TheMaximumAchievableX(int num, int t) 
     {
-        // TODO: Implement the logic here
-        
-        // This is a placeholder implementation
-        return num + 2 * t; // Common pattern for "maximum achievable X" problems
+        return num + 2 * t;
     }
 }
