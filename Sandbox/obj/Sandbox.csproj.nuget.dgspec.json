@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\simon\\Desktop\\projects\\LeetCode\\Sandbox\\Sandbox.csproj": {}
+    "c:\\Users\\simon\\Desktop\\projects\\LeetCode\\Sandbox\\Sandbox.csproj": {}
   },
   "projects": {
-    "C:\\Users\\simon\\Desktop\\projects\\LeetCode\\Sandbox\\Sandbox.csproj": {
+    "c:\\Users\\simon\\Desktop\\projects\\LeetCode\\Sandbox\\Sandbox.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\simon\\Desktop\\projects\\LeetCode\\Sandbox\\Sandbox.csproj",
+        "projectUniqueName": "c:\\Users\\simon\\Desktop\\projects\\LeetCode\\Sandbox\\Sandbox.csproj",
         "projectName": "Sandbox",
-        "projectPath": "C:\\Users\\simon\\Desktop\\projects\\LeetCode\\Sandbox\\Sandbox.csproj",
+        "projectPath": "c:\\Users\\simon\\Desktop\\projects\\LeetCode\\Sandbox\\Sandbox.csproj",
         "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\simon\\Desktop\\projects\\LeetCode\\Sandbox\\obj\\",
+        "outputPath": "c:\\Users\\simon\\Desktop\\projects\\LeetCode\\Sandbox\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
